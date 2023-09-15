@@ -1,0 +1,4 @@
+﻿  SceneMain.cpp
+C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxLib.h(3344,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\fko2347080\repos\sample20230707\SceneMain.cpp(182,36): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  sample20230707.vcxproj -> C:\fko2347080\repos\sample20230707\x64\Debug\sample20230707.exe

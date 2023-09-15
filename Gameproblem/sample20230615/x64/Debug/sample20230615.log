@@ -1,0 +1,6 @@
+﻿  sample.c
+C:\fko2347080\repos\sample20230615\sample.c(17,26): warning C4133: '<': 'int *' と 'char [3]' の間で型に互換性がありません。
+C:\fko2347080\repos\sample20230615\sample.c(17,26): warning C4047: '関数': 間接参照のレベルが 'const char *const ' と 'int' で異なっています。
+C:\fko2347080\repos\sample20230615\sample.c(17,16): warning C4024: 'scanf_s': の型が 1 の仮引数および実引数と異なります。
+C:\fko2347080\repos\sample20230615\sample.c(25,13): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+  sample20230615.vcxproj -> C:\fko2347080\repos\sample20230615\x64\Debug\sample20230615.exe

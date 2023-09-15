@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxLib.h(3344,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\fko2347080\repos\sample20230626\main.cpp(121,9): error C2512: 'Player': クラス、構造体、共用体に既定のコンストラクターがありません。
+C:\fko2347080\repos\sample20230626\main.cpp(13,8): message : 'Player' の宣言を確認してください
