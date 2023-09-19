@@ -1,0 +1,15 @@
+C:\fko2347080\repos\Qs_Entry1\bin\Debug\net6.0\Qs_Entry1.exe
+C:\fko2347080\repos\Qs_Entry1\bin\Debug\net6.0\Qs_Entry1.deps.json
+C:\fko2347080\repos\Qs_Entry1\bin\Debug\net6.0\Qs_Entry1.runtimeconfig.json
+C:\fko2347080\repos\Qs_Entry1\bin\Debug\net6.0\Qs_Entry1.dll
+C:\fko2347080\repos\Qs_Entry1\bin\Debug\net6.0\Qs_Entry1.pdb
+C:\fko2347080\repos\Qs_Entry1\obj\Debug\net6.0\Qs_Entry1.csproj.AssemblyReference.cache
+C:\fko2347080\repos\Qs_Entry1\obj\Debug\net6.0\Qs_Entry1.GeneratedMSBuildEditorConfig.editorconfig
+C:\fko2347080\repos\Qs_Entry1\obj\Debug\net6.0\Qs_Entry1.AssemblyInfoInputs.cache
+C:\fko2347080\repos\Qs_Entry1\obj\Debug\net6.0\Qs_Entry1.AssemblyInfo.cs
+C:\fko2347080\repos\Qs_Entry1\obj\Debug\net6.0\Qs_Entry1.csproj.CoreCompileInputs.cache
+C:\fko2347080\repos\Qs_Entry1\obj\Debug\net6.0\Qs_Entry1.dll
+C:\fko2347080\repos\Qs_Entry1\obj\Debug\net6.0\refint\Qs_Entry1.dll
+C:\fko2347080\repos\Qs_Entry1\obj\Debug\net6.0\Qs_Entry1.pdb
+C:\fko2347080\repos\Qs_Entry1\obj\Debug\net6.0\Qs_Entry1.genruntimeconfig.cache
+C:\fko2347080\repos\Qs_Entry1\obj\Debug\net6.0\ref\Qs_Entry1.dll
