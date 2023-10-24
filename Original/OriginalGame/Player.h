@@ -1,42 +1,36 @@
 #pragma once
-#include"Vec2.h"
-
 class Player
 {
-    //向いている方向
-    enum Dir
-    {
-        kDirDown,
-        kDirLeft,
-        kDirRight,
-        kDirUp
-    };
-
 public:
 	Player();
 	~Player();
 
-	void Init();
-	void Update();
-	void Draw();
-
-    //メンバー変数にアクセスする
-
-    void SetHandle(int handle) { m_handle = handle; }
-
-    Vec2 GetPos() const { return m_pos; }
-
+	void All();
 
 private:
+	void Init();
+	void Updata();
+	void Draw();
 
-    int m_handle;    //グラフィックのハンドル
-    //表示位置
-    Vec2 m_pos;
-    /* float m_posX;
-     float m_posY;*/
-     //向いている方向
-    Dir m_dir;
-    //歩きアニメーション
-    int m_walkAnimFrame;
+private:
+	//x座標,y座標 
+	double x, y;
+
+	//画像幅
+	int width, height;
+
+	//グラフィックハンドル格納用配列
+	int gh[12];
+
+	//移動係数
+	float move;
+
+	//横方向と縦方向のカウント数
+	int Xcount, Ycount;
+	//添字用変数
+	int Ix, Iy, result;
+	//生きているかのフラグ
+	bool life;
+	
 };
 
