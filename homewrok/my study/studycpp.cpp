@@ -1,5 +1,8 @@
 #include<iostream>
+#include<cstdlib>
 using namespace std;
+
+
 
 int main()
 {
@@ -9,11 +12,25 @@ int main()
 	}
 	cout << endl;*/
 
-	int a = 0;
+
+	/*int a = 0;
 	for (;;)
 	{
 		cout << a << "";
 		++a;
 	}
-	cout << endl;
+	cout << endl;*/
+
+
+	/*char hello[] = "Hello";
+
+	cout << "[" << hello << "]‚ð•¶ŽšƒR[ƒh‚É•Ï‚¦‚é‚Æ" << endl;
+
+	for (int i = 0; i < (int)sizeof hello; i++)
+	{
+		cout << (int)(unsigned char)hello[i] << ",";
+	}
+	cout << endl<< "‚É‚È‚è‚Ü‚·" << endl;*/
+
+	
 }
