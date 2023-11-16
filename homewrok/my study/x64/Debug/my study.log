@@ -1,2 +1,4 @@
 ﻿  studycpp.cpp
-  my study.vcxproj -> C:\Users\fko2347080\Desktop\江藤沙空\my-keep\homewrok\my study\x64\Debug\my study.exe
+C:\Users\fko2347080\Documents\GitHub\my-keep\homewrok\my study\studycpp.cpp(15,5): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\fko2347080\Documents\GitHub\my-keep\homewrok\my study\studycpp.cpp(17,22): warning C4244: '+=': 'double' から 'int' への変換です。データが失われる可能性があります。
+  my study.vcxproj -> C:\Users\fko2347080\Documents\GitHub\my-keep\homewrok\my study\x64\Debug\my study.exe
